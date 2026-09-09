@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments (виртуальные окружения)
+.venv/
+venv/
+ENV/
+
+# Database / Local Settings
+db.sqlite3
+.env
+
+# Media / Static
+media/
